@@ -1,0 +1,11 @@
+/* index.css - Estilos básicos para GaleriaOnlineReact */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #C7D9E5;
+  font-family: "JetBrains Mono", monospace;
+}
