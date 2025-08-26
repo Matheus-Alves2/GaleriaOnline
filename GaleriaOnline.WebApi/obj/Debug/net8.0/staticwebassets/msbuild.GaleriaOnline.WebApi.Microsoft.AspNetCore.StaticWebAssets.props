@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\33301999-18f5-4469-800a-a808acbf3936.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GaleriaOnline.WebApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GaleriaOnline.WebApi</BasePath>
+      <RelativePath>imagens/33301999-18f5-4469-800a-a808acbf3936.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ooy4p4agk9</Fingerprint>
+      <Integrity>mHFBMi7PVVU3uRVN0noKqwzcmbQdV14a4P7t2PNrsVk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\33301999-18f5-4469-800a-a808acbf3936.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\8c152239-7648-4d91-babd-550e1030f384.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GaleriaOnline.WebApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GaleriaOnline.WebApi</BasePath>
+      <RelativePath>imagens/8c152239-7648-4d91-babd-550e1030f384.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>00b43x7p5e</Fingerprint>
+      <Integrity>UDjmOjfus0CL4GkApteOxy65qDLPVrGcnZGzRWzNPnk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\8c152239-7648-4d91-babd-550e1030f384.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\a6daa74c-8723-4406-b614-afc5e60975d4.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GaleriaOnline.WebApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GaleriaOnline.WebApi</BasePath>
+      <RelativePath>imagens/a6daa74c-8723-4406-b614-afc5e60975d4.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gr46sabatt</Fingerprint>
+      <Integrity>ZG4euQ5nHUbiG7n1RJymevN2QgjMjRT2kozPWaIyLoI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\a6daa74c-8723-4406-b614-afc5e60975d4.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\e62dbd11-fc3a-4120-bcf6-a3250d41372d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GaleriaOnline.WebApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GaleriaOnline.WebApi</BasePath>
+      <RelativePath>imagens/e62dbd11-fc3a-4120-bcf6-a3250d41372d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>c67wtnqlzl</Fingerprint>
+      <Integrity>rDrzc6m1Oq2Dr5uZ/vpnCRFh4+1GNmagxrxDKa2d3Zg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\e62dbd11-fc3a-4120-bcf6-a3250d41372d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

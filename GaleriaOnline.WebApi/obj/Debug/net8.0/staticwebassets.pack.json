@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\55101912875\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\33301999-18f5-4469-800a-a808acbf3936.jpg",
+      "PackagePath": "staticwebassets\\imagens\\33301999-18f5-4469-800a-a808acbf3936.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55101912875\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\8c152239-7648-4d91-babd-550e1030f384.jpg",
+      "PackagePath": "staticwebassets\\imagens\\8c152239-7648-4d91-babd-550e1030f384.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55101912875\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\a6daa74c-8723-4406-b614-afc5e60975d4.jpg",
+      "PackagePath": "staticwebassets\\imagens\\a6daa74c-8723-4406-b614-afc5e60975d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\55101912875\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\e62dbd11-fc3a-4120-bcf6-a3250d41372d.jpg",
+      "PackagePath": "staticwebassets\\imagens\\e62dbd11-fc3a-4120-bcf6-a3250d41372d.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GaleriaOnline.WebApi.props",
+      "PackagePath": "build\\GaleriaOnline.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GaleriaOnline.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\GaleriaOnline.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GaleriaOnline.WebApi.props",
+      "PackagePath": "buildTransitive\\GaleriaOnline.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
